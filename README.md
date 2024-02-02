@@ -1,5 +1,14 @@
 # Tarea 2  
-  
+
+## Temas    
+-Texto en el AppBar.  
+-Icons y Text de diferentes tamaños.  
+-Distribuir elementos en una Row.  
+-Contorno cuadrado.  
+-Padding y márgenes.    
+-ListView  
+-SnackBar  
+
 ## Lo que mas me costo trabajo  
 Lo que más me costó trabajo fue la parte de ListView, ya que cuando estaba tratando de hacerla me salía una excepción al tener un ListView en otro Widget crolleable. Sin embargo, puse esta línea y con eso se solucionó: shrinkWrap: true,
   
